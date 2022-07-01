@@ -29,6 +29,7 @@ aws_secret_access_key = <KEY HERE>
 3. Run Terraform commands
 ``` sh
 terraform init
+terraform validate
 terraform plan
 terraform apply
 ```
